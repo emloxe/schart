@@ -1,6 +1,6 @@
 # 预览地址
 
-https://emloxe.github.io/schart
+https://emloxe.github.io/schart/index.html
 
 
 # scharts用法说明
